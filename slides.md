@@ -20,6 +20,34 @@
 
 ---
 
+### 03 - Flow Diagram
+แผนผังการทำงานและการออกแบบ Workflow
+
+[📊 เปิดสไลด์](https://03-flow-diagram-dmiq2r7.gamma.site/)
+
+---
+
+### 04 - AI Agent Overview
+ภาพรวมและความสามารถของ AI Agent
+
+[📊 เปิดสไลด์](https://04-ai-agent-overview-qau9fwq.gamma.site/)
+
+---
+
+### 05 - AI Provider and Create API Key
+การสมัครใช้บริการ AI Provider และการสร้าง API Key
+
+[📊 เปิดสไลด์](https://05-ai-provider-and-creat-vvjeogv.gamma.site/)
+
+---
+
+### 06 - Workshop
+แบบฝึกหัดและตัวอย่างการใช้งานจริง
+
+[📊 เปิดสไลด์](https://06-workshop-n5bgcjg.gamma.site/)
+
+---
+
 ## หมายเหตุ
 
 สไลด์ทั้งหมดจัดทำโดย Gamma App และสามารถเข้าถึงได้ผ่านลิงก์ด้านบน

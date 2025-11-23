@@ -90,6 +90,19 @@
 ### สไลด์การบรรยาย
 - [📊 สไลด์ประกอบการอบรม](./slides.md)
 
+### คู่มือและตัวอย่างการใช้งาน
+- [🔑 คู่มือการสร้าง API Key และ OAuth 2.0 Client IDs](./api-setup-guide.md)
+  - การสร้าง API Key ของ Google Gemini
+  - การสร้าง OAuth 2.0 Client IDs สำหรับ Google Services
+  - การสร้าง API Key ของ OpenAI
+  - การสร้าง API Key ของ OpenRouter
+
+- [💻 ตัวอย่าง Script และ Prompt](./examples.md)
+  - Function Node: Parse JSON Response จาก AI
+  - Function Node: เปรียบเทียบหมวดหมู่
+  - AI Prompt: การจัดหมวดหมู่งานวิจัยตาม OECD
+  - AI Prompt: การวิเคราะห์และสกัดข้อมูลบทความวิจัย
+
 ### เอกสาร PDF
 - [รายละเอียดอบรม n8n และ AI Agent สนับสนุนงานสารสนเทศ.pdf](./รายละเอียดอบรม%20n8n%20และ%20AI%20Agent%20สนับสนุนงานสารสนเ.pdf)
 - [กำหนดการอบรม n8n และ AI Agent สนับสนุนงานสารสนเทศ.pdf](./กำหนดการอบรม%20n8n%20และ%20AI%20Agent%20สนับสนุนงานสารสนเทศ.pdf)

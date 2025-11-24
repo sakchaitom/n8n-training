@@ -13,6 +13,13 @@
 
 ---
 
+### 01.1 - n8n Workflow Automation
+การทำงานอัตโนมัติด้วย n8n Workflow
+
+[📊 เปิดสไลด์](https://n8n-workflow-automation--7q67x11.gamma.site/)
+
+---
+
 ### 02 - n8n Basic Concept
 แนวคิดพื้นฐานของระบบ n8n
 

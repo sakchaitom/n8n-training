@@ -61,7 +61,7 @@ Function Node นี้ใช้สำหรับประมวลผลข้
       category: parsed.category || null,
       confidence: confidenceNumber,
       // เก็บของเดิมไว้ด้วย เผื่อใช้ต่อ
-      original: ai
+      original: text
     }
   };
 

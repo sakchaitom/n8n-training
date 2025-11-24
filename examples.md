@@ -28,14 +28,9 @@ Function Node นี้ใช้สำหรับประมวลผลข้
 #### Code
 
 ```javascript
-// n8n Function Node
-
-return $input.first().json.output.map(item => {
-  // ดึง object หลักที่ได้จาก AI
-  const ai = item;
 
   // ดึงข้อความที่เป็นผลลัพธ์จาก content[0].text
-  const text = ai.content?.[0]?.text || '';
+  const text = $input.first().json.output;
 
   // ลบครอบ ```json ... ``` ออก
   const cleaned = text
@@ -69,7 +64,7 @@ return $input.first().json.output.map(item => {
       original: ai
     }
   };
-});
+
 ```
 
 #### คำอธิบาย
